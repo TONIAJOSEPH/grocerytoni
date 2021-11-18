@@ -1,0 +1,27 @@
+body{
+    background-image: url('../images/8.jpeg');
+    /* background-color: white;  */
+    background-size: cover; 
+}
+button{
+    background-color:black;
+    color: white;
+}
+.table{
+    
+    border: 2px solid black;
+    margin-left: 350px; 
+    font-size: 23px;
+   
+}
+#head{
+    background-color: green;
+    
+}
+#tdata{
+    color:black;
+    background-color:white;
+}
+#demo{
+    text-align: center;
+}
